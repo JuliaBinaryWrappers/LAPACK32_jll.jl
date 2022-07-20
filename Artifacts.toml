@@ -1,0 +1,439 @@
+[[LAPACK32]]
+arch = "aarch64"
+git-tree-sha1 = "45ba6bb93d64c89cd7b67319dc30e2e6e69e2234"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LAPACK32.download]]
+    sha256 = "2ecabd46c609217d034ab505b907a68b448a39d668747c00a0c2de0f06cd0cec"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "aarch64"
+git-tree-sha1 = "4d9f759d39737588c12f6e660ab6aa1bec9fd9f7"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "8203f2cf06e8b7bd0e37617994770075ba45421d8477f1de410fff73093da817"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "aarch64"
+git-tree-sha1 = "9a8bf5921b4d2a8f410819345827d34f3d5e15b9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "19088a73cb9069116dbfe13d75478a9139a0f36a5e0157b2a1733ab62e4151c4"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "aarch64"
+git-tree-sha1 = "375ece91adf9891ada1506e33f4f1b83fca8f657"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "4638ebdf1547d9eebb52e803d0a1b62c8015ec039feddcf79497e41b7e695a5a"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "aarch64"
+git-tree-sha1 = "33f2d6d7178643ad170f3878b247de8788dfe329"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "82251443f3d15f224dbc79dd0a6f01b4e8bb6e23026f9038b5401075bc9c9873"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9bfa72376326a8ab7335535141c92506e7ea5df0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "d5d0966db9780ece30dd930d4fe80792a35f947f9cd4fc6f0da0476a315498c1"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4376bc5bf306d37f17a789d03d883b38ce1c35b9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "d1afd005e4715847b65292d7ad257533e7261e9d438adb8476de45a4b94454ee"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "336313f3f16915c0345d7a9bb1c969f2ab30d2b3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "e258bb361024045c5c0b608dc74f772f43334365af0e8c17a03283dd0012f533"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "01f75c8706062e72c7c8c0d2f60c60db11fec72e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "5f93286c315fd848a8441fa27e8be3caf2937587cd20867ad892d7b820325d83"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5bbee88c8fe2350109128b0725344ddc21c017c3"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "4e934ff5f55ea11da8db18f7451246bec23c105f4f523067c43e41a776563c36"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb8f6a42a082b47b0f327194d70d14b2be2a28bc"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "e2ed474a52bf7378e6d58e7a69e2e7c573f1b7c598fdf878a88a2a2097450086"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7753cee1d63a049aad2b3913503477a73aa665ee"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "a53516f67582e12f973536f13a7e3ed231af9602cd38eb3982ae67597a5391de"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "afdba6d9752a53e723b856ef96f783899c66eba0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "7f14ad7eba93b3a0c67dcccff813fb92428123f8bbbc4453802ba0ce6ced7484"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "73b6d1366353c17b9e40cae5937733b51e334749"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "2fd2c2db9dd7d31d1688444415503767e77faad54c17b8200a94fcb5f37ea0b8"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3098791735fe4ff730b6e8dffacd77cc72b497b2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "ad8a58c381900cc2d214d6b119cea1aab510518b3bbe718c307e6e86c642d257"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "727d32ec1164257fd9d48cdc0ed53f8491a2aff9"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "9bf8a1d373c8a6f4afccae3b81c0adfd68e9f4d9a4cb9ae2024608f302178d58"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4dc4f125ae0484ca00ba3783260fef7b743fdee"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "0db4e22a8db67418c45a0e022707ea21e5ec1c38449f4c8d684c88f1e773f975"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "c16fa5da17175cb1ba4a7959f1d62028a8d1801a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "286d0b34d7708befbbc6273f10ac1069fe689ee02bfab68bb2d5d3a2a24cc0a6"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "4f8512a7e225ea39700bd24d5415b7092a6c9aac"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "5664f08d5a26bb2cdc7b4e53c75862c5cecd3b58475c2f3090eea8fcf0fcf685"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "6909c5a9a38531455854628eb4c3303acecb5585"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "70d733799e101af96223c0490d9032cdd756f0b7ba241b3db4f48eb5ff293132"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "8d5a2f9b24edea20a333869e7b2519a0ba710ba6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "b5481d2bb814d8cd4169d15570bb2acd16be0b3da4343021df682d21e50d24c5"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-linux-musl-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "c7dc66b0291addd0153b452978aa2b881d5a5ae6"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "5999e07a215a63be2587854800a076189ab319a429f6aa4b07bc8ce176b11a1c"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-linux-musl-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "1d89150c19df81dc25183a10db4ab013dcfab26f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "1b9940bbc43e0ffab98129542434b8d0934c0f2685b9c074a3a3cc3762a6643a"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-linux-musl-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "fb5395a2827b42ed7457f8a981fde514918384d3"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[LAPACK32.download]]
+    sha256 = "5da85ac5b0e144baa1a6f8be7faa729678f3d438055f2b809bd87e9ece6a9d80"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "964360c9fd4a9c6826d14bdb9dbc49e6dd267c6b"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[LAPACK32.download]]
+    sha256 = "e49ff4a640ecd641b20460e0552aa2d758adf345495c3a3e1cdef67b155f3288"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "i686"
+git-tree-sha1 = "5e4e49554763ae1d1bc57e2a2e0758f9b5beaf29"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[LAPACK32.download]]
+    sha256 = "5fa6f7d1616e929538638bc9e4d669c500c53c4df2f0db5a4034909c0b9a75d2"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "powerpc64le"
+git-tree-sha1 = "3671d7facd0f92d28666b165c9c868fe63d19aec"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "0769cf4f22b08f37f3d3705783ad413e063d9c551c743593bb2783c8b1ea9673"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "powerpc64le"
+git-tree-sha1 = "3faf8483619d557aea953164a60420f2016bfbd9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "3bd8759bd2848d6fb8fbe50f32990ce75aa8fc715e7ed5aebb6c6e36b36c2e86"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "powerpc64le"
+git-tree-sha1 = "39d738388e5140ed7caed8ac3d271a796cce2a81"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "5a4623b6f5affa6ee88a5a373a0f6cd4aa7c3bd039a83485afe3f5845b80ba5c"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "da443b0575133b77ef7529f56f296e44ed88ffa3"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[LAPACK32.download]]
+    sha256 = "aac67795f523d349f7f4299898abeacd70dfe649375b7ebc93e041277e98be81"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "a530add34924bc17a134bbae835443b1b4bef7b0"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[LAPACK32.download]]
+    sha256 = "f189ce01068910e18adf1b35e82fbba01f44336f3207734410ee429d0e42c23d"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "e8c4b24ecf9f8630928980280421841c5370fa81"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LAPACK32.download]]
+    sha256 = "484cc138ecd29a985b90187e3a603d833ead939001624a1b17387e359b41daa0"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "b4b63fc064a1f3c215a3ca0be06211dc8691cd67"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "2e5a5825d045f77d72355e4f1ace06e5286c4df0f16f0c5bb6176b2d5fc1d034"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "647b97928f9522ddb1c5dfa109997a54e0ea48fb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "f8617c43978e0c7abc2a25da2a2e5e05d32094072e8ae0e3b9f4e6a6e727ff14"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "06fbc4b8d72cdab4f83a575ac2a60ad9ac40fbd2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "56b7c4993402641d1d5460f2431a27ddd9ffbfd02c02641b0327abbcab4c9ac5"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "1360847c4ded70458a935f60207988fbba43c243"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "e91da88f179db45d4b15786c5d3a7983740b480ceab6b6f70ef11737a1461bf5"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "a18a37ab98868e8432520d7ab419ab34cbfe5a46"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "c6cbde9acbdfe922ec0f56e6ff86b1eefae74b99556f4b3d3292087b06461162"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "03dac1b359a1efe91fb3d5bbc0b6c438143157f1"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LAPACK32.download]]
+    sha256 = "c8d57e28294255650e388eb3a369acf0add6abeb8296a1c7dd687cd49381f8df"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "c5ae752c0733a404d03bb4e590e6dbdecb1fc2c0"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[LAPACK32.download]]
+    sha256 = "1999316ed4aaa6d0805acad8ae0df303d49562942bffbc10ff567dd04116831c"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "18e09fbb7ad886b44342ddda9defdd5d1bb657b8"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[LAPACK32.download]]
+    sha256 = "f9fa31cfc20ee7feb836701952097930653bf188f2491c86c856165a1e220925"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "b105f7c41d79157c4f2a8ffa80d004a2e8380195"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[LAPACK32.download]]
+    sha256 = "f4bc48314b5a1090468f711126bf6d36fb4a395be11bead7972f72853681a3d0"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "8be3750710ae5d30ec46a0e407af8fc737f150a6"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[LAPACK32.download]]
+    sha256 = "53d37b1bb3155e6016420d9c11b8fa2263c35e1f55646904fe82b20269507a65"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "9661510895d8baf4fe24277ddc14816ebefffaf8"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[LAPACK32.download]]
+    sha256 = "73b2210bf42ca4e9f74a217661c8f8772a7a1b1fc728bab2ef64fc695923a2c2"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[LAPACK32]]
+arch = "x86_64"
+git-tree-sha1 = "f572524225d8a9266c31227f4e28a0a1091bd882"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[LAPACK32.download]]
+    sha256 = "c06030a9a8fb68055bc674f4b5f92f072438f762dde616a66d814fbfd8142836"
+    url = "https://github.com/JuliaBinaryWrappers/LAPACK32_jll.jl/releases/download/LAPACK32-v3.10.0+0/LAPACK32.v3.10.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
